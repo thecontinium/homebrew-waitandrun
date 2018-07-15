@@ -1,4 +1,4 @@
-class RestartVpn< Formula
+class WaitAndRun< Formula
   homepage 'https://github.com/thecontinium/homebrew-waitandrun/'
   url 'https://github.com/thecontinium/homebrew-waitandrun.git'
   version '0.0.1'
