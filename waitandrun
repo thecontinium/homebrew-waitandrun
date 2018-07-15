@@ -1,0 +1,13 @@
+#!/bin/bash
+# waitandrun 
+
+
+# Wati a number of seconds 
+echo Sleep "$1" until things settle down
+sleep "$1"
+
+# Run the command 
+echo No runing the command: "${*:2}"
+${@:2}
+
+echo done
