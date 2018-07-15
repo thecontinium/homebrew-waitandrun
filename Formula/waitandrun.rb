@@ -1,7 +1,7 @@
 class WaitAndRun< Formula
   homepage 'https://github.com/thecontinium/homebrew-waitandrun/'
   url 'https://github.com/thecontinium/homebrew-waitandrun.git'
-  version '0.0.2'
+  version '0.0.3'
 
   skip_clean 'bin'
 
